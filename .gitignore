@@ -9,5 +9,5 @@ modules/*/build/*
 .idea/*
 out
 test-run
-docker-image/baseclinic.jar
+docker-image/clinic.jar
 docker-image/clinic.jar

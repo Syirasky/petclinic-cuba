@@ -31,7 +31,7 @@ buildscript {
     }
 }
 
-def modulePrefix = 'clinic'
+def modulePrefix = 'baseclinic'
 
 def globalModule = project(":${modulePrefix}-global")
 def coreModule = project(":${modulePrefix}-core")
